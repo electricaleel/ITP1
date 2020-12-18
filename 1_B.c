@@ -4,7 +4,7 @@ int main(void)
 {
     int x;
     
-    scanf("%d", x);
+    scanf("%d", &x);
     
     x = x * x * x;
     
